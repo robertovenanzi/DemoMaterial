@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DemoMaterial</string>
+    <string name="Titolo">Titolo</string>
+    <string name="Dettaglio">Dettaglio</string>
+    <string name="Dettaglio_nota">Dettaglio nota</string>
+    <string name="data_creazione">Data creazione:</string>
+    <string name="salva_nota_button">Salva nota</string>
+    <string name="drawer_open">Apri</string>
+    <string name="drawer_close">Chiudi</string>
+</resources>
